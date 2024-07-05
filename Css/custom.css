@@ -1,0 +1,143 @@
+nav  li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px;
+    
+
+}
+nav ul li a{
+    color: bisque;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: rgb(112, 82, 26);
+}
+
+.logo {
+    margin-top: 5px;
+}
+
+img{
+    height: 70px;
+    width: 70px;
+    
+}
+i{
+    height: 25px;
+    width: 25px;
+    color: rgb(116, 108, 108);
+   
+}
+
+i:hover{
+    color: bisque;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.box-1{
+height: 500px;
+width: 50%;
+background-color: rgba(72, 116, 130, 0.863);
+}
+.box-1 img{
+       width: 70%;
+       height: 250px;
+       margin:35px 0px 0px 100px ;
+       border-radius:20px ;
+       -webkit-border-radius:20px ;
+       -moz-border-radius:20px ;
+       -ms-border-radius:20px ;
+       -o-border-radius:20px ;
+}
+
+box-1-text h1{
+    
+    margin: 20px;
+}
+
+
+.box-2{
+    height: 500px;
+    width: 50%; 
+   background-color: rgba(72, 116, 130, 0.863);
+}
+
+.box-2 img{
+    width: 70%;
+    height: 250px;
+    margin:35px 0px 0px 100px ;
+    border-radius:20px ;
+    -webkit-border-radius:20px ;
+    -moz-border-radius:20px ;
+    -ms-border-radius:20px ;
+    -o-border-radius:20px ;
+}
+
+
+    
+
+.box-1-text{
+    
+    text-align: center;
+}
+
+.box-2-text{
+    
+    text-align: center;
+}
+
+.card-box{
+    display: flex;
+    flex-wrap: wrap;
+    border: solid 3px gray;
+}
+.card-1{
+    height: 500px;
+    width: 50%;
+    background-color:rgb(188, 196, 197);
+    }
+    .card-1 img{
+           width: 70%;
+           height: 250px;
+           margin:35px 0px 0px 100px ;
+           border-radius:20px ;
+           -webkit-border-radius:20px ;
+           -moz-border-radius:20px ;
+           -ms-border-radius:20px ;
+           -o-border-radius:20px ;
+}
+
+
+    .con-card-2{
+text-align: center;
+width: 50%;
+height: 500px;
+background-color: gainsboro;
+
+    }
+    .con-card-2 p, h1, h3{
+        margin: 50px;
+    }
+    
+
+    .footer{ 
+        width: 100%;
+        height: 250px;
+        color: white;
+        background-color: black;
+        text-align: center;
+      padding: 0.5px;
+
+    }
+
+.icon{
+   
+    margin: 20px 10px 5px 60px;
+    padding: 0px 10px 0 500px;
+}
+      
